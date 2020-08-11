@@ -12,3 +12,7 @@ The mobile App we created will help the user to
 
 ## Link to the source code (on Thunkable)
 https://x.thunkable.com/copy/3c06255c3373a4515fd8d8b43dc2959e
+
+
+## Link to Presentation and Demo
+https://www.youtube.com/watch?v=SH-w2Rm62R4
