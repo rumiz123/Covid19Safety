@@ -1,4 +1,4 @@
-# Covid19Safety
+# Covid19 Safety
 Code Crew Hackathon project
 
 ## Created by
