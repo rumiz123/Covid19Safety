@@ -1,6 +1,8 @@
 # Covid19 Safety
 Code Crew Hackathon project
 
+## The API has been taken down... Sad:(
+
 ## Created by
 - Rumiz Nellasery 
 - Kavin Prakash
